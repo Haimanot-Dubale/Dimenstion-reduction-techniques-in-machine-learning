@@ -1,1 +1,1 @@
-# Dimenstion-reduction-techniques-in-machine-learning
+# Dimenstion-reduction-techniques-in-machine-learning[Dimention reduction (2).zip](https://github.com/Haimanot-Dubale/Dimenstion-reduction-techniques-in-machine-learning/files/7844110/Dimention.reduction.2.zip)
